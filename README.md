@@ -10,5 +10,12 @@ implemented in Java.
 - Stack & Queue
 - Trees (Basics)
 
-📌 Source: HackerRank 
+🛠️ Tech Stack
+Language: Java ☕
+Platform: HackerRank / LeetCode
+
+💡 Key Highlights
+* Daily consistent practice to master logic and time complexity.
+* Focus on optimized code and best practices.
+
 📌 Goal: Coding rounds & placement preparation  
